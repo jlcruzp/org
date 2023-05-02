@@ -1,0 +1,19 @@
+.lista-opciones label{
+    display:block;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    color:#212121;
+    margin-bottom: 8px;
+}
+
+.lista-opciones select{
+    width: 100%;
+    background-color: #f7f7f7;
+    box-shadow: 7px 7px 15px rgba(0, 0, 0, 0.18);
+    border-radius: 10px;
+    padding: 12px;
+    border:none;
+    outline-color: #6278f7;
+    font-size: 16px;
+}
